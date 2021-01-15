@@ -1,0 +1,8 @@
+div {
+    background-image: url(image/beach.webp);
+    background-size: 1000px;
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}

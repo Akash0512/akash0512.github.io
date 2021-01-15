@@ -1,0 +1,25 @@
+/* {
+    background-image: url(image/beach.webp);
+    background-repeat: no-repeat;
+    background-position: top;
+   background-image: url(image/beach.webp);
+}
+*/
+
+body {
+    background-image: url(image/scene.jpg);
+    background-repeat: repeat;
+}
+
+div {
+    background-position: right;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1000px;
+    height: 1000px;
+    width: 1000px;
+}
+
+h1 {
+    color: white;
+}
